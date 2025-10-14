@@ -37,7 +37,7 @@ Se debe documentar todo el proceso para garantizar **trazabilidad** y **reproduc
 - **Pasivos**: sin interactuar directamente con el objetivo (por ejemplo, búsquedas en Google, redes sociales).  
 - **Activos**: implican interacción directa o rastreo más profundo (por ejemplo, escaneo de puertos, peticiones web).
 
-### 2.3 Herramientas OSINT por Categoría
+### 2.3 OSINT Framework – Herramientas de búsqueda para recolección 
 
 | Categoría | Herramienta / Enlace | Descripción |
 |------------|----------------------|--------------|
@@ -97,7 +97,7 @@ La verificación debe ser sistemática y documentada. Pasos recomendados:
 4. **Verificación visual:** comprobar origen de imágenes y videos (TinEye, Google Reverse Image).  
 5. **Registro de resultados:** anotar el método, herramientas y conclusión de cada verificación (incluyendo nivel de confianza: alta, media, baja).
 
-**Herramientas de Verificación**
+**OSINT Framework – Herramientas para la Verificación de Información**
 
 | Tipo | Herramienta / Enlace | Uso principal |
 |------|----------------------|---------------|
@@ -157,7 +157,7 @@ Integrar todos los hallazgos para generar una narrativa coherente, conclusiones 
 La fase de diseminación de resultados busca comunicar eficazmente los hallazgos obtenidos durante el proceso OSINT.  
 El objetivo es transformar la información analizada en **conocimiento útil, claro y orientado a la acción**.
 
-### 4.2 Herramientas de Diseminación
+### OSINT Framework – Herramientas para la Diseminación de Resultados
 
 | Aspecto | Herramienta / Enlace | Descripción |
 |----------|----------------------|--------------|
