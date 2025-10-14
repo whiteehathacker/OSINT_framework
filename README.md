@@ -37,7 +37,7 @@ Se debe documentar todo el proceso para garantizar **trazabilidad** y **reproduc
 - **Pasivos**: sin interactuar directamente con el objetivo (por ejemplo, búsquedas en Google, redes sociales).  
 - **Activos**: implican interacción directa o rastreo más profundo (por ejemplo, escaneo de puertos, peticiones web).
 
-### 2.3 Herramientas OSINT por Categoría
+### 2.3 Herramientas OSINT para recolección
 
 | Categoría | Herramienta / Enlace | Descripción |
 |------------|----------------------|--------------|
