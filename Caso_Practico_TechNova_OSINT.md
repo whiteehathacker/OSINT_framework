@@ -24,7 +24,7 @@ Un alcance bien definido evita recopilar información innecesaria o ilegal.
 ### Requerimientos de Información
 
 - **Datos requeridos:** cuantitativos (fechas, registros, IPs) y cualitativos (contenido, contexto, reputación).  
-- **Criterios:** actualidad, fiabilidad, veracidad.  
+- **Criterios:** actualidad, fiabilidad y veracidad.  
 - **Fuentes:** institucionales, académicas, corporativas, redes sociales y bases de datos OSINT.
 
 ### Consideraciones Legales y Éticas
@@ -36,8 +36,8 @@ Un alcance bien definido evita recopilar información innecesaria o ilegal.
 ### Selección de Fuentes
 
 - **Primarias:** Sitios web, redes sociales oficiales, registros [WHOIS Lookup](https://whois.domaintools.com/).  
-- **Secundarias:** Artículos periodísticos, bases de datos corporativas.  
-- **Terciarias:** Compilaciones, resúmenes o reportes de terceros.  
+- **Secundarias:** Artículos periodísticos y bases de datos corporativas.  
+- **Terciarias:** Compilaciones, resúmenes y reportes de terceros.  
 
 Las fuentes se evalúan por **credibilidad, actualidad, precisión y objetividad**.
 
